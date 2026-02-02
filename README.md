@@ -24,7 +24,7 @@ The system was refactored to prioritize security, modularity, and user roles.
 - **The Portal System:** Introduced the **Teacher Portal**, allowing faculty to securely insert assessment data (Quizzes/Mids/Finals) stored via text file handling.
 - **User Access Control:** Implemented logic to ensure students can only access their specific data.
 
-## 🛠️ Technical Stack
+##  Technical Stack
 - **Language:** C++
 - **Framework:** Qt (Signals & Slots, QWidgets)
 - **Data Storage:** - **Excel (CSV):** Core academic credentials.
